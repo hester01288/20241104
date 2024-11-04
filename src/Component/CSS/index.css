@@ -1,0 +1,29 @@
+.main {
+    width: 960px;
+    position: relative;
+    top: 130px;
+    left: 480px;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 115px;
+  }
+  
+  #title {
+    font-size: 24px;
+    line-height: 50px;
+    color: #000;
+    text-indent: 1em;
+  }
+  
+  table h3 {
+    padding-left: 26px;
+    font-size: 14px;
+    color: #f07a8b;
+  }
+#pic{
+    width: 300px;
+    max-width: 600px; 
+    height: auto;
+  }

@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&family=Noto+Serif+KR&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Sedan:ital@0;1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Noto+Sans+KR:wght@100..900&family=Noto+Serif+KR&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Sedan:ital@0;1&display=swap");
+
+img {
+  max-width: 200px;
+  height: auto;
+}
+
+.SelfIntro table {
+   text-align: center;
+  width: 50%;
+  border-collapse: collapse;
+}
+.quickintro {
+  font-size: 16px;
+  color: #f07a8b;
+  text-align: center;
+  font-family: "Noto Serif KR", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+hr {
+  color: #80b3ec;
+  size: 1px;
+  width: 1050px;
+}
+.SelfIntro td:first-child {
+  width: 200px;
+  height: 50px;
+}
